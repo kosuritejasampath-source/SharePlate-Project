@@ -204,3 +204,22 @@ This project is developed as a group project by a team of three members.
 To reduce food waste and create a community where surplus food reaches people who need it.
 
 **Share Food, Spread Kindness, Reduce Waste!** 🌱
+
+
+
+## 🚀 Live Deployment
+
+SharePlate is deployed as a full-stack web application.
+
+- **Frontend:** https://shareplate-ten.vercel.app
+- **Backend API:** https://shareplate-backend-gykh.onrender.com
+- **Database:** Neon PostgreSQL
+
+### Technology Stack
+- React + Vite
+- Python + FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Vercel
+- Render
+- Neon
